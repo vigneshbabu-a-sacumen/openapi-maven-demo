@@ -1,0 +1,10 @@
+com/openapi/gen/springboot/dto/Error.class
+com/openapi/gen/OpenapiGenApplication.class
+com/openapi/gen/springboot/api/UserApiController$1.class
+com/openapi/gen/springboot/dto/UserDTO.class
+com/openapi/gen/springboot/api/UserApi$1.class
+com/openapi/gen/springboot/api/UserApi.class
+com/openapi/gen/springboot/api/UserApiController.class
+com/openapi/gen/springboot/api/UserApiDelegate.class
+com/openapi/gen/UserAPIDelegateImpl.class
+com/openapi/gen/springboot/api/ApiUtil.class
